@@ -1,2 +1,3 @@
 # CapturadorTexto
 # CapturadorTexto
+# CapturadorTexto
