@@ -1,5 +1,1 @@
-# CapturadorTexto
-# CapturadorTexto
-# CapturadorTexto
-# CapturadorTexto
-# CapturadorTexto
+# CAPTURADOR DE TEXTO EN IMAGENES CON TESSERACT
