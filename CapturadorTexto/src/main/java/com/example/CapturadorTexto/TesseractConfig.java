@@ -9,7 +9,7 @@ public class TesseractConfig {
     @Bean
     Tesseract tesseract(){
         Tesseract tesseract = new Tesseract();
-        tesseract.setDatapath("src/main/resources");
+        tesseract.setDatapath("src/main/resources/tessdata-main");
         return tesseract;
     }
 

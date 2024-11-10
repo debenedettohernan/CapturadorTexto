@@ -12,7 +12,7 @@ import java.io.IOException;
 public class TesseractController {
     @Autowired
     private TesseractService tesseractService;
-    @PostMapping("/orc")
+    @PostMapping("/ocr")
     public String recognizedText(@RequestParam MultipartFile img) throws IOException {
         return tesseractService.recognizedText(img.getInputStream());
     }
